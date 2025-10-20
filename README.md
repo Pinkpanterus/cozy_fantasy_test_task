@@ -1,3 +1,3 @@
 # cozy_fantasy_test_task
-Тестовое задание практикума "cozy fantasy" от Skillbox
+Тестовое задание практикума "cozy fantasy" от Skillbox.
 Автор: Гроностайский Александр Игоревич
